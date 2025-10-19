@@ -6,7 +6,7 @@
     "album": "Test Album",
     "duration": "5:11",
     "cover_url": "https://picsum.photos/300/300",
-    "audio_url": "https://cdn.jsdelivr.net/gh/debacodex/ApiData@master/song1.mp3"
+    "audio_url": "https://cdn.jsdelivr.net/gh/debacodex/song@main/song1.mp3"
   },
   {
     "id": "2", 
@@ -15,7 +15,7 @@
     "album": "Test Album 2",
     "duration": "4:30",
     "cover_url": "https://picsum.photos/300/300",
-    "audio_url": "https://cdn.jsdelivr.net/gh/debacodex/ApiData@master/song2.mp3"
+    "audio_url": "https://cdn.jsdelivr.net/gh/debacodex/song@main/song2.mp3"
   },
     {
     "id": "3", 
@@ -24,7 +24,7 @@
     "album": "Test Album 3",
     "duration": "8:04",
     "cover_url": "https://picsum.photos/300/300",
-    "audio_url": "https://cdn.jsdelivr.net/gh/debacodex/ApiData@master/song3.mp3"
+    "audio_url": "https://cdn.jsdelivr.net/gh/debacodex/song@main/song3.mp3"
     },
     {
   "id": "4",
@@ -33,7 +33,7 @@
   "album": "Test Album 3",
   "duration": "8:04",
   "cover_url": "https://picsum.photos/300/300",
-  "audio_url": "https://cdn.jsdelivr.net/gh/debacodex/ApiData@master/song4.mp3"
+  "audio_url": "https://cdn.jsdelivr.net/gh/debacodex/song@main/song4.mp3"
 },
 {
     "id": "5", 
@@ -41,6 +41,6 @@
     "artist": "Test Artist 3",
     "album": "Test Album 3",
     "cover_url": "https://picsum.photos/300/300",
-    "audio_url": "https://cdn.jsdelivr.net/gh/debacodex/ApiData@master/song5.mp3"
+    "audio_url": "https://cdn.jsdelivr.net/gh/debacodex/song@main/song5.mp3"
     }
 ]
